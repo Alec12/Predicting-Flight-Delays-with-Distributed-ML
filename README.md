@@ -19,6 +19,7 @@ The primary goal is to develop a binary classification model that predicts wheth
 - **Robust Cross-Validation**:
   - Used a **blocking time series split** strategy to ensure realistic evaluation of temporal patterns, mimicking real-world operational conditions.
 
+![TimeSeriesCV_Strategy](assets/img/blockedtimeseriescv.png)
 ---
 
 ## **Datasets**
@@ -28,6 +29,8 @@ This project integrates and processes three primary datasets for flights within 
 3. **Airport Metadata** (U.S. Department of Transportation): Geographical and operational information for U.S. airports.  
 
 All datasets were transformed and optimized using Parquet files to handle the high data volume efficiently.
+
+![Point_Biserial_Graph](assets/img/point_biserial.png)
 
 ---
 
