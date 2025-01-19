@@ -1,8 +1,8 @@
 # **Flight Delay Prediction with Parallelized Training**
 By: Alec Naidoo, Jian Wang, Patrick Yim, Trisha Sanghal
 
-[Analysis](Team_Analysis.html)
-[Presentation](Final_Presentation.pdf)
+&nbsp;[Analysis](Team_Analysis.html)
+&nbsp;[Presentation](Final_Presentation.pdf)
 
 ## **Overview**
 Predicting flight delays accurately is essential for optimizing airline operations, minimizing passenger disruptions, and advancing research in the aviation industry. This project tackles the challenge of processing over 31 million rows of flight and weather data by leveraging distributed frameworks and scalable storage formats.
@@ -34,7 +34,7 @@ This project integrates and processes three primary datasets for flights within 
 
 All datasets were transformed and optimized using Parquet files to handle the high data volume efficiently.
 
-    ![Point_Biserial_Graph](assets/img/point_biserial.png)
+![Point_Biserial_Graph](assets/img/point_biserial.png)
 
 ---
 
