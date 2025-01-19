@@ -1,7 +1,6 @@
 # **Flight Delay Prediction with Parallelized Training**
 By: Alec Naidoo, Jian Wang, Patrick Yim, Trisha Sanghal
 
-&nbsp;[Analysis](Team_Analysis.html)
 &nbsp;[Presentation](Final_Presentation.pdf)
 
 ## **Overview**
